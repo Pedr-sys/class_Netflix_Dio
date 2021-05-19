@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @Pedr-sys
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Pedr-sys/Pedr-sys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+README.md
+Este projeto pertence as aulas de treinamento do curso de HTML WEB DEVELOPER, da empresa Digital Inovation One.
+Consiste basicamente em estudar as estruturas das páginas em (HTML, CSS, JAVASCRIPT) e acesso responsivo aos
+dispositivos móveis do site de entretenimento Netflix.
