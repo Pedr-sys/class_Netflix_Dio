@@ -2,4 +2,7 @@
 README.md
 Este projeto pertence as aulas de treinamento do curso de HTML WEB DEVELOPER, da empresa Digital Inovation One.
 Consiste basicamente em estudar as estruturas das páginas em (HTML, CSS, JAVASCRIPT) e acesso responsivo aos
-dispositivos móveis do site de entretenimento Netflix.
+dispositivos móveis do site de entretenimento Netflix. Conforme as instruções do instrutor:
+- Dar vida aos botões em tela;
+- Fazer uma nova roupagem.
+
